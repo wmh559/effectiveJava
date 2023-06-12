@@ -1,6 +1,5 @@
 package com.wmh.builder;
 
-import lombok.Data;
 
 /**
  * 数据连接池
